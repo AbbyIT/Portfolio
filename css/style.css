@@ -8,21 +8,51 @@ body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   line-height: 1.5;
 }
-
+/* container for creating the grid */
  .container{ 
   display: grid;
+  background-color:#AED6F1;
   grid-template-columns: 25% 75%; 
-
  }
 
-h1,
+/* Displays navigationn bar information */
+#navBar {
+  display: flex;
+  flex-direction: row;
+  margin: 0px;
+  background-color: #2E86C1 ;
+ 
+}
+
+#navBar h1 {
+  width: 25%;
+  font-weight: 500; 
+ }
+
+
+#navigation {
+  display: flex;
+  width: 50%;
+  align-items: center;
+  justify-content: space-evenly;
+
+}
+
+#hero-banner {
+  /* grid-area: auto; */
+  background-image: url("../images/02-hero-bg.jpg");
+
+ 
+}
+
+ h1, 
 h2,
 h3,
 h4,
 h5,
 h6 {
   margin: 0;
-}
+} */
 
 p {
   margin: 0;
