@@ -10,49 +10,75 @@ body {
 }
 /* container for creating the grid */
  .container{ 
+  /* padding: 50px; */
   display: grid;
   background-color:#AED6F1;
   grid-template-columns: 25% 75%; 
  }
+        
+  /* border: 1px dashed white; */
+  /* box-sizing: border-box; */
+  /* padding:0 20px 20px; */ 
+ 
 
 /* Displays navigationn bar information */
-#navBar {
+ #navBar {
   display: flex;
   flex-direction: row;
   margin: 0px;
-  background-color: #2E86C1 ;
- 
+  background-color: #2E86C1;
+  
 }
 
-#navBar h1 {
-  width: 25%;
+#navBar h1  {
+  width: 70%;
   font-weight: 500; 
  }
 
 
-#navigation {
+ #navigation {
   display: flex;
-  width: 50%;
-  align-items: center;
+  width: 40%;
+  align-items: left;
+  flex-wrap: nowrap;
   justify-content: space-evenly;
+  
+  
 
 }
 
 #hero-banner {
   /* grid-area: auto; */
   background-image: url("../images/02-hero-bg.jpg");
+  /* border: 1px dashed red;
+  box-sizing: border-box;
+  padding:0 20px 20px; */
+  
+}
 
+/* contact me page */
+
+#contact-me {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  width: 100%; 
+  align-items: right;
+  justify-content:space-evenly;
+  background-color: #2E86C1; 
+  font-size: small;
  
 }
 
- h1, 
+    
+h1, 
 h2,
 h3,
 h4,
 h5,
 h6 {
   margin: 0;
-} */
+} 
 
 p {
   margin: 0;
