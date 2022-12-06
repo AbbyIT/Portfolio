@@ -36,7 +36,6 @@ body {
   font-weight: 500; 
  }
 
-
  #navigation {
   display: flex;
   width: 40%;
@@ -47,12 +46,19 @@ body {
 
 /* display gridd for images  */
 
+/* #grid-containers{
+  display: grid;
+  grid-template-columns: 1fr */
+  
+/* } */
+
+/* for the 3 images the bottom of the screen */
 #grid-containers2{
 
   display: grid;
   gap: 1.5rem;
  
-  grid-template-columns: 1fr 1fr; 
+  grid-template-columns: 1fr 1fr 1fr; 
 
 
 }
