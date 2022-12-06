@@ -64,10 +64,11 @@ body {
 }
 
 
-/* #hero-banner{
- background-image: url("02-hero-bg.jpg");
- 
-} */
+ .hero-banner{
+  background-color: #2E86C1; 
+
+
+} 
 
 /* contact me page */
 
@@ -95,4 +96,11 @@ h6 {
 
 p {
   margin: 0;
+}
+
+#grid-containers2 img  {
+  height: 200px;
+
+
+
 }
