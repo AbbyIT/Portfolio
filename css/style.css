@@ -9,12 +9,13 @@ body {
   line-height: 1.5;
 }
 /* container for creating the grid */
- .container{ 
+  .container{ 
   /* padding: 50px; */
   display: grid;
+  gap: 1.5rem;
   background-color:#AED6F1;
   grid-template-columns: 25% 75%; 
- }
+ } 
         
   /* border: 1px dashed white; */
   /* box-sizing: border-box; */
@@ -41,20 +42,26 @@ body {
   width: 40%;
   align-items: left;
   flex-wrap: nowrap;
-  justify-content: space-evenly;
-  
-  
+  justify-content: space-evenly; 
+}
+
+/* display gridd for images  */
+
+#grid-containers2{
+
+  display: grid;
+  gap: 1.5rem;
+ 
+  grid-template-columns: 1fr 1fr; 
+
 
 }
 
-#hero-banner {
-  /* grid-area: auto; */
-  background-image: url("../images/02-hero-bg.jpg");
-  /* border: 1px dashed red;
-  box-sizing: border-box;
-  padding:0 20px 20px; */
-  
-}
+
+/* #hero-banner{
+ background-image: url("02-hero-bg.jpg");
+ 
+} */
 
 /* contact me page */
 
@@ -67,7 +74,7 @@ body {
   justify-content:space-evenly;
   background-color: #2E86C1; 
   font-size: small;
- 
+  text-decoration: underline; 
 }
 
     
