@@ -4,13 +4,13 @@
 
 ## Description 
 
-I am cresting a portfolio to showcase my skills and talent. The porfolio shows information about my strongest work as well as the though process behind it. I will be showcasing how I have applied CSS, html and Javascript in creating various projects. 
+I am creating a portfolio to showcase my skills and talent. The porfolio shows information about my strongest work as well as the processess behind it. I will be showcasing how I have applied CSS, html and Javascript in creating various projects. 
 
 
 
 ## Installation
 
-The project is created in VScode by using CSS, html and Javascript. It has been deployed using Github. 
+The project is created in VScode by using CSS, html and Javascript. It has been deployed using Github. I have included the webpage for easy access.git
 
 
 ## Usage 
