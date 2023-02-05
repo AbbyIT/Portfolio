@@ -1,27 +1,16 @@
-* {
-  box-sizing: border-box;
-}
 
+ 
 body {
   margin: 0;
-  padding: 0;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  line-height: 1.5;
-}
-/* container for creating the grid */
-  .container{ 
-  /* padding: 50px; */
-  display: grid;
-  gap: 1.5rem;
-  background-color:#AED6F1;
-  grid-template-columns: 25% 75%; 
- } 
-        
-  /* border: 1px dashed white; */
-  /* box-sizing: border-box; */
-  /* padding:0 20px 20px; */ 
- 
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #0a2ab9;
+  background-color: #919bc7;
 
+}
+
+
+
+        
 /* Displays navigationn bar information */
  #navBar {
   display: flex;
@@ -44,61 +33,61 @@ body {
   justify-content: space-evenly; 
 }
 
-/* display gridd for images  */
+.first-project{
 
-/* #grid-containers{
-  display: grid;
-  grid-template-columns: 1fr */
-  
-/* } */
-
-/* for the 3 images the bottom of the screen */
-#grid-containers2{
-
-  display: grid;
-  gap: 1.5rem;
- 
-  grid-template-columns: 1fr 1fr 1fr; 
-
+  background-color: rgb(78, 140, 235);
+  font-size:25px;
 
 }
 
+.card {
 
- .hero-banner{
-  background-color: #2E86C1; 
+  background-color: #919bc7
 
-
-} 
-
+}
 /* contact me page */
 
 #contact-me {
   display: flex;
   flex-wrap: nowrap;
   flex-direction: row;
-  width: 100%; 
-  align-items: right;
+  font-size:30px;
+  font-weight: 200;
+  color: white;
+  align-items: left;
   justify-content:space-evenly;
-  background-color: #2E86C1; 
-  font-size: small;
-  text-decoration: underline; 
-}
+  background-color: #0629c4;
+  border-style: solid;
+  border-color: #0a2ab9;
+  
 
-    
+}
+   
 h1, 
 h2,
 h3,
 h4,
-h5,
 h6 {
   margin: 0;
+  color:blue
 } 
 
+
+h2{
+
+font-size: 30px;
+
+}
 p {
   margin: 0;
 }
 
-#grid-containers2 img  {
-  height: 200px;
+
+.my-story{
+width: 50%;
+background-color: rgb(78, 140, 235);
+color: #0a2ab9;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 25px;
 
 }
