@@ -23,7 +23,11 @@ Portfolio-Redesign/assets/images (github)
 
 This website will provide potential employers with information about my skills and abilities. it showcase what I have been learning so far on the course.
 
----
+
+References
+
+The following is a list of reference materials used in development of the application:\
+*https://getbootstrap.com/ - Bootstrap CSS Framework documentation.
 
 🏆
 
