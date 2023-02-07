@@ -8,7 +8,9 @@ I am creating a portfolio to showcase my skills and talent. The portfolio shows 
 
 ## Installation
 
-The project is created in VScode by using CSS, html and Javascript. It has been deployed using Github. I have included the webpage for easy access.git
+The project is created in VScode by using CSS, html and Javascript. It has been deployed using Github. I have included the webpage for easy access.
+
+Github
 
 https://github.com/AbbyIT/Portfolio
 https://abbyit.github.io/Portfolio/
