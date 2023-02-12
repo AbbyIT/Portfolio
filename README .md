@@ -14,8 +14,8 @@ The project is created in VScode by using CSS, html and Javascript. It has been 
 ## Links
 Github Links
 
-https://github.com/AbbyIT/Portfolio
-https://abbyit.github.io/Portfolio/
+* https://github.com/AbbyIT/Portfolio
+* https://abbyit.github.io/Portfolio/
 
 
 Screenshots
