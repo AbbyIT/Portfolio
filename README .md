@@ -1,3 +1,4 @@
+
 My expereinc# Portfolio - Challenge 2
 
 ## Description 
@@ -14,14 +15,15 @@ The project is created in VScode by using CSS, html and Javascript. It has been 
 ## Links
 Github Links
 
-https://github.com/AbbyIT/Portfolio
-https://abbyit.github.io/Portfolio/
+* https://github.com/AbbyIT/Portfolio
+* https://abbyit.github.io/Portfolio/
 
 
 Screenshots
 
-Portfolio-Redesign/assets/images (github)
-
+![Screenshot 3](https://user-images.githubusercontent.com/117487886/218339067-4f6ff6b4-0a9b-420d-9953-6c8c9802e03f.jpg)
+![Screenshot 1](https://user-images.githubusercontent.com/117487886/218339069-0221ab6c-5b0a-406d-ad1d-02ccf2c46641.jpg)
+![Screenshot 2](https://user-images.githubusercontent.com/117487886/218339070-39ad8b3a-4521-47fb-867e-4ce45ad6ae5d.jpg)
 ## Usage 
 
 
@@ -199,3 +201,4 @@ For answers to common questions about this code of conduct, see the FAQ at
 ------------------
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
