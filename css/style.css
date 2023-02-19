@@ -144,7 +144,27 @@ padding: 10px;
 
 border: 10px solid hsl(229, 82%, 24%);
 border-radius: 4px;
-;
   
+}
+/* Buttons arranged in column on xs devices */
+@media screen and (max-width: 576px) {
+  .btn, .responsive-content {
+      width: 80%;
+      padding: 10px 15px;
+      margin: 5px 10px;
+  }
 
+}
+@media (max-width:750px) {
+  .btn, .responsive-content {
+      font-size: 1.5vw;
+  }
+
+}
+@media (max-width: 1000px) {
+  .btn, .responsive-content {
+      font-size: 1.7vw;
+      height: 2.3vw;
+      width: 22vw;
+  }
 }
